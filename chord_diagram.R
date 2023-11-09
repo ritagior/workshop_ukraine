@@ -29,10 +29,8 @@ circos.track(
   }
 )
 
-circos.cle
+circos.clear()
 
 ## add title
 
-## add footnote
-
-## add a second footnote data source
+## add a footnote for the data source
