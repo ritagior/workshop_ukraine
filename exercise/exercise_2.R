@@ -1,5 +1,4 @@
-## Exercise 2
-## Create a chord diagram
+## Exercise 2: Create a chord diagram
 
 library(tidyverse)
 library(circlize)
